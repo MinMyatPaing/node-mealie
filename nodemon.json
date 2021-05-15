@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "brandon",
+        "MONGO_PASSWORD": "GCqr9K4G3a3VsyLu",
+        "MONGO_DATABASE": "mealie",
+        "JWT_SECRET_KEY": "ultimateSecureKey"
+    }
+}
